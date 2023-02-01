@@ -1,2 +1,0 @@
-# MetaVM
-JVM on JVM
