@@ -1,4 +1,4 @@
 (executable
- (public_name MetaVM)
- (name main)
+ (public_name java)
+ (name java)
  (libraries MetaVM))

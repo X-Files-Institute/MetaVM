@@ -5,22 +5,22 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github muqiuhan/MetaVM))
 
-(authors "Author Name")
+(authors "Muqiu Han")
 
-(maintainers "Maintainer Name")
+(maintainers "Muqiu Han")
 
-(license LICENSE)
+(license MIT)
 
-(documentation https://url/to/documentation)
+(documentation https://github.com/muqiuhan)
 
 (package
  (name MetaVM)
- (synopsis "A short synopsis")
- (description "A longer description")
+ (synopsis "JVM on JVM")
+ (description "JVM on JVM")
  (depends ocaml dune)
  (tags
-  (topics "to describe" your project)))
+  (JVM jvm)))
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/dune-files.html#dune-project
