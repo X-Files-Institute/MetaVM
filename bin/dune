@@ -1,0 +1,4 @@
+(executable
+ (public_name MetaVM)
+ (name main)
+ (libraries MetaVM))
